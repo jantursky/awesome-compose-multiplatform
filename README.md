@@ -65,11 +65,12 @@
 | ------- | ----- | ----------- |
 | ⭐60   | [Cutcon](https://github.com/mahozad/cutcon) | Media cutter, converter, viewer (video, audio, image) |
 | ⭐18000 | [AB Download Manager](https://github.com/amir1376/ab-download-manager) | Manage and organize downloads |
+| ⭐440  | [Ketch](https://github.com/linroid/Ketch) |  Download manager for every device you own |
 | ⭐3400 | [PeopleInSpace](https://github.com/joreilly/PeopleInSpace) | List of people in space and the position of the International Space Station |
 | ⭐2800 | [Gitnuro](https://github.com/JetpackDuba/Gitnuro) | Git client |
 | ⭐1200 | [MusicApp-KMP](https://github.com/SEAbdulbasit/MusicApp-KMP) | Music player and explorer |
 | ⭐260  | [TrendingAI](https://github.com/HarlonWang/TrendingAI) | Tech trends from GitHub Trending, Hacker News and Product Hunt, picked and summarized by AI |
-| ⭐18  | [TMPlayer](https://github.com/dracu-lah/TMPlayer) | Open-source Telegram video player for Android TV and Desktop |
+| ⭐18   | [TMPlayer](https://github.com/dracu-lah/TMPlayer) | Open-source Telegram video player for Android TV and Desktop |
 
 <br>
 
